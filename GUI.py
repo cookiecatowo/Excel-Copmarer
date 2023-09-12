@@ -65,7 +65,7 @@ btn2.pack()
 label2.pack()
 
 def start_compare():
-    label3['text'] = "比對中，請等待..."
+    label3['text'] = "比對中，請等待...."
     window.update()
     comparer()
 
